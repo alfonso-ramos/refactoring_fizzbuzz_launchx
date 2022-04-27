@@ -30,16 +30,16 @@
         "elixir",
         "groovy",
         "reasonML"
-      ]
+    ]
     },
     {
-      "name": "Woopa4",
-      "githubUsername": "ajolonauta4",
-      "mission": "node",
-      "score": 4,
-      "stacks": [
+    "name": "Woopa4",
+    "githubUsername": "ajolonauta4",
+    "mission": "node",
+    "score": 4,
+    "stacks": [
         "javascript"
-      ]
+    ]
     },
     {
     "name": "Woopa5",
@@ -50,7 +50,7 @@
         "javascript",
         "elixir",
         "elm"
-      ]
+    ]
     },
     {
     "name": "Woopa6",
@@ -59,7 +59,7 @@
     "mission": "java",
     "stacks": [
         "elm"
-      ]
+    ]
     },
     {
     "name": "Woopa7",
@@ -76,7 +76,7 @@
     "mission": "java",
     "stacks": [
         "elm"
-      ]
+    ]
     },
     {
     "name": "Woopa9",
@@ -89,7 +89,7 @@
         "groovy",
         "reasonML",
         "elm"
-      ]
+    ]
     },
     {
     "name": "Woopa10",
@@ -102,7 +102,7 @@
         "groovy",
         "reasonML",
         "elm"
-      ]
+    ]
     },
     {
     "name": "Woopa11",
@@ -115,7 +115,7 @@
         "groovy",
         "reasonML",
         "elm"
-      ]
+    ]
     },
     {
     "name": "Woopa12",
@@ -128,7 +128,7 @@
         "groovy",
         "reasonML",
         "elm"
-      ]
+    ]
     },
     {
     "name": "Woopa13",
@@ -141,7 +141,7 @@
         "groovy",
         "reasonML",
         "elm"
-      ]
+    ]
     },
     {
     "name": "Woopa14",
@@ -154,7 +154,7 @@
         "groovy",
         "reasonML",
         "elm"
-      ]
+    ]
     },
     {
     "name": "Woopa15",
@@ -167,6 +167,6 @@
         "groovy",
         "reasonML",
         "elm"
-      ]
+    ]
     }
-    ] 
+    ]

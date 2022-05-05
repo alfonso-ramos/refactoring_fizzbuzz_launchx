@@ -23,22 +23,22 @@ describe("Test de FizzbuzzService", () =>{
     });
 });
 describe("Test de metodo applyValidationInNumber", ()=>{
-    test("Requerimiento 1: Retornar el el trick, el mismo valor que score", ()=>{
+    test("Requerimiento 1: Retornar el el trick, el mismo valor que score", ()=> {
         const score = 1;
         expect(FizzBuzzService.applyValidationInNumber(score)).toBe(1);
         //console.log(FizzBuzzService.applyValidationInNumber(explorer));
     });
-    test("Requerimiento 2: Retornar el valor FIZZ en el trick", () =>{
+    test("Requerimiento 2: Retornar el valor FIZZ en el trick", () => {
         const score = 3;
         expect(FizzBuzzService.applyValidationInNumber(score)).toMatch(/FIZZ/);
         //console.log(FizzBuzzService.applyValidationInNumber(explorer));
     });
-    test("Requerimiento 3: Retornar el valor BUZZ en el score", () =>{
+    test("Requerimiento 3: Retornar el valor BUZZ en el score", () => {
         const score = 5;
         expect(FizzBuzzService.applyValidationInNumber(score)).toMatch(/BUZZ/);
         //console.log(FizzBuzzService.applyValidationInNumber(explorer));
     });
-    test("Requerimiento 4: Retornar el valor FIZZBUZZ en el trick", () =>{
+    test("Requerimiento 4: Retornar el valor FIZZBUZZ en el trick", () => {
         const score = 15;
         expect(FizzBuzzService.applyValidationInNumber(score)).toMatch(/FIZZBUZZ/);
         //console.log(FizzBuzzService.applyValidationInNumber(explorer));
